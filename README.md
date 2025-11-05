@@ -9,7 +9,8 @@ Este trabajo tiene como objetivo **detectar posibles sesgos en el lenguaje** de 
 Se instalaron y cargaron las librerías necesarias, en conjunto al corpus (df_total.csv). Luego, se tokenizo el texto y se convirtieron palabras a minusculas, para seguidamente realizar un entrenamiento del modelo con ayuda de Word2Vec.
 Posteriormente, se eligieron las palabras...
 > mujer, hombre, joven, viejo, gordo, gorda, inmigrante, refugiado, extranjero, turista, experto, ángel, villano, rico, pobre | NOTA: No todas fueron graficadas.
-Con el fin de detectar sesgos en las mismas con una grafica 2D hecha con PCA.
+
+Esta elección de palabras se realizo con el fin de detectar sesgos en las mismas con una grafica 2D hecha con PCA.
 
 
 ## Conclusiones
